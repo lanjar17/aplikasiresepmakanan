@@ -1,6 +1,6 @@
 # aplikasiresepmakanan
 Aplikasi Resep Makanan ini dibuat untuk memenuhi tugas akhir Pemrograman Perangkat Bergerak. 
-/nDikembangkan Oleh :
-/nLanjar Dwi saputro, S.Pd
-/nMuh Adhi Dharmawan, S.Pd
-/nSyahrul Bagas H,
+</n>Dikembangkan Oleh :
+</n>Lanjar Dwi saputro, S.Pd
+</n>Muh Adhi Dharmawan, S.Pd
+</n>Syahrul Bagas H,
